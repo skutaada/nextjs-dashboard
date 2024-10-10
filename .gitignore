@@ -37,3 +37,4 @@ next-env.d.ts
 
 # vscode files
 .vscode
+bun.lockb
